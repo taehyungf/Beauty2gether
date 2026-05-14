@@ -140,7 +140,7 @@ class _ProductListScreenState extends State<ProductListScreen> {
           children: const [
             Icon(Icons.spa, color: Color(0xFFD4826A)),
             SizedBox(width: 8),
-            Text('Glow Studio',
+            Text('Beauty 2gether',
                 style: TextStyle(
                     color: Color(0xFF5C3D2E),
                     fontWeight: FontWeight.bold)),
